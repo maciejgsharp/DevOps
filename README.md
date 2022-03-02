@@ -1,6 +1,6 @@
 # DevOps
-WHR deployment Fargate cluster thru terraform:
-Prerequisties:
+# WHR deployment Fargate cluster thru terraform:
+## Prerequisties:
 1. Terraform is installed and in $PATH
 2. AWS CLI is installed and configured to use IAM role/user.
 Steps:
